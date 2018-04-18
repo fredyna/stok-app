@@ -1,0 +1,16 @@
+{
+    "name": "fredyna/stok-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Fredy Nur Apriyanto",
+            "email": "mail.fredyna@gmail.com",
+            "role": "programmer"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    },
+    "description": "Belajar PHP"
+
+}
